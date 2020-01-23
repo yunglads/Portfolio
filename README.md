@@ -1,8 +1,13 @@
+# Aladdin Vicuna
+
+## About me
+Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/Developer and a Full Sail University alumni. I graduated on October 4th, 2019, with a Bachelors's Degree in Game Design. During my time at Full Sail I've learned a lot about the gaming industry and gaming as a whole. I have always loved developing video games and with the help of Full Sail, I am able to pursue my dream of making my game ideas come to life.
+
 ## Projects
 
 ### Bubbles Escape
 ![Bubbles Escape Title Screen](https://img.itch.zone/aW1hZ2UvNTE3OTc4LzI3MDMyMTMucG5n/original/YyrBCF.png)
-Bubbles Escape is a Metroidvania style platformer designed in Unity in a team of 6 designers and 3 artists over the course of four months for our final project for Full Sail University. Players will encounter a Metroid style world where they use powerups they find around the underground labs as they work their way out of the area 51 bunkers. With 3 different types of weapons, 5 enemies, and 3 bosses. For a better understanding of the game take a look at our Dev notes here. The game has been published on itch.io! link below.
+Bubbles Escape is a Metroidvania style platformer designed in Unity by a team of 6 designers and 3 artists over the course of four months for our final project at Full Sail University. Players will encounter a Metroid style world where they use powerups they find around the underground labs as they work their way out of the area 51 bunkers. With 3 different types of weapons, 5 enemies, and 3 bosses. For a better understanding of the game take a look at our Dev notes here. The game has been published on itch.io! link below.
 
 Play Bubbles Escape: [Itch.io link](https://teamneir.itch.io/bubbles-escape)
 
