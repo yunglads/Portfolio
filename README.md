@@ -9,7 +9,7 @@ Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/De
 ![Bubbles Escape Title Screen](https://img.itch.zone/aW1hZ2UvNTE3OTc4LzI3MDMyMTMucG5n/original/YyrBCF.png)
 Bubbles Escape is a Metroidvania style platformer designed in Unity by a team of 6 designers and 3 artists over the course of four months for our final project at Full Sail University. Players will encounter a Metroid style world where they use powerups they find around the underground labs as they work their way out of the area 51 bunkers. With 3 different types of weapons, 5 enemies, and 3 bosses. For a better understanding of the game take a look at our Dev notes here. The game has been published on itch.io! link below.
 
-Role and Responsibilities: *Game Designer* 
+Role and Responsibilities: *Game Designer June - Oct 2019* 
 
 -	Effectively communicated and worked with six designers and three artists over the course of four months during the production of this game
 - Programmed scripts in C# for AI enemies, weapons, character movement, player power-ups, animation and audio
