@@ -13,7 +13,16 @@ Play Bubbles Escape: [Itch.io link](https://teamneir.itch.io/bubbles-escape)
 
 Bubbles Escape playthrough video: [Youtube link](https://youtu.be/3EcoMzg-6Dg)
 
+## Design Documents
 
+### Warparty
+[Warpaty Design Doc](https://avvrg.files.wordpress.com/2017/07/warparty-design-document.pdf)
+
+### Avalanche
+[Avalanche Presentation](https://docs.google.com/presentation/d/1lw22617caf5CrLRCZNsmxbxoF7nUDyIzJwppBi-wrxg/edit?usp=sharing)
+
+### Stones of Cataria
+[Stones of Cataria Design Doc](https://avvrg.files.wordpress.com/2018/09/stones-of-cataria-game-design-document.pdf)
 
 
 ## Welcome to GitHub Pages
