@@ -1,7 +1,7 @@
 # Aladdin Vicuna
 
 ## About me
-Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/Developer and a Full Sail University alumni. I graduated on October 4th, 2019, with a Bachelors's Degree in Game Design. During my time at Full Sail I've learned a lot about the gaming industry and gaming as a whole. I have always loved developing video games and with the help of Full Sail, I am able to pursue my dream of making my game ideas come to life.
+Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/Developer and a Full Sail University alumni. I graduated on October 4th, 2019, with a BS in Game Design. During my time at Full Sail I've learned a lot about the gaming industry and gaming as a whole. I have always loved developing video games and with the help of Full Sail, I am able to pursue my dream of making my game ideas come to life.
 
 ## Projects
 
