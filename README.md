@@ -22,9 +22,9 @@ Role and Responsibilites: *Game Designer Dec 2019 - Present*
 
 The Red door is a first-person Survival Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door is still in development and is expected to make an alpha release on PC in Feburary.
 
-Role and Resposibilities: *Game Developer Dec 2019 - Present*
+Role and Resposibilities: *Game Designer Dec 2019 - Present*
 
--	Developed/created systems based on game design document 
+-	Developed/created systems, mechanics, and gameplay based on game design document 
 -	Programmed scripts in C# for AI enemies, character movement, procedurally generated levels, randomly generated items, hiding locations, puzzles, and scripted events
 -	Designed multiple areas based inside a home using pre-made assets and tweaking pre-made code for games specific needs
 
