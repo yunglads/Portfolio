@@ -29,7 +29,9 @@ Role and Resposibilities: *Game Developer Dec 2019 - Present*
 -	Designed multiple areas based inside a home using pre-made assets and tweaking pre-made code for games specific needs
 
 The Red Door early development gameplay video: [Youtube Link](https://youtu.be/FWF-oTzjH28)
+
 Puzzle gameplay video: [Youtube Link](https://youtu.be/efmZKyBJFJs)
+
 Portal gameplay VIdeo: [Youtube Link](https://youtu.be/fNLJiKMMDh4)
 
 
