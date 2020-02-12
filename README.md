@@ -17,19 +17,18 @@ Role and Responsibilites: *Game Designer Dec 2019 - Present*
 -	Created animations for enemies, weapons/tools
 -	Designed small open-world level layout and non-linear dungeon system 
 
-### Untitled Horror
+### The Red Door
 ![Untitled Horror Title Screen](https://avvrg.files.wordpress.com/2020/01/uhtitlescreen.png?w=2720)
 
-Untitled Horror is a multiplayer aysimetric survival horror where players are pitted against the enemy inside a house. Players must work together to solve puzzles and find keys to unlock the doors to the next area until they escape the house all while running away from the enemy. Untitled Horror is still in development and is expected to make an alpha release on PC and mobile in Feburary.
+The Red door is a first-person Survival Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door is still in development and is expected to make an alpha release on PC in Feburary.
 
 Role and Resposibilities: *Game Developer Dec 2019 - Present*
 
--	Developed/created systems based on Lead Game Designers design document 
--	Programmed scripts in C# for AI enemies, character movement, procedurally generated levels, randomly generated items, and hiding locations
+-	Developed/created systems based on game design document 
+-	Programmed scripts in C# for AI enemies, character movement, procedurally generated levels, randomly generated items, hiding locations, puzzles, and scripted events
 -	Designed multiple areas based inside a home using pre-made assets and tweaking pre-made code for games specific needs
--	Collaborated with Lead Game Designer using Git and Sourcetree for version control
 
-Untitled Horror gameplay video: [Youtube link](https://youtu.be/FWF-oTzjH28)
+The Red Door gameplay video: [Youtube link](https://youtu.be/FWF-oTzjH28)
 
 
 ### Bubbles Escape
