@@ -8,7 +8,7 @@ Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/De
 ### The Red Door
 ![Untitled Horror Title Screen](https://img.itch.zone/aW1nLzI5OTA4MzkucG5n/original/%2FWDfiI.png)
 
-The Red door is a first-person Survival Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door is still in development and is expected to make an alpha release on PC in Feburary.
+The Red door is a first-person Survival Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door is still in development and currently has a demo version available to play on [itch.io](https://yunglads25.itch.io/the-red-door).
 
 Role and Resposibilities: *Game Designer Dec 2019 - Present*
 
