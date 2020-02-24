@@ -1,24 +1,12 @@
-# Aladdin Vicuna
+# Aladdin Vicuna's Online Design Portfolio
 
 ## About me
 Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/Developer and a Full Sail University alumni. I graduated on October 4th, 2019, with a BS in Game Design. During my time at Full Sail I've learned a lot about the gaming industry and gaming as a whole. I have always loved developing video games and with the help of Full Sail, I am able to pursue my dream of making my game ideas come to life.
 
 ## Projects
 
-### Stones of Cataria: Talewinds
-![Stones of Cataria: Talewinds Screenshot](https://avvrg.files.wordpress.com/2020/01/soc_talwinds.png?w=2720)
-
-Stones of Cataria: Talewinds is an RPG intended for kids. With simple inventories, quests, and a dungeon system, Talewinds aims to be a less complex RPG that is story driven so it's easy for kids to pick up but also interesting enough for adults to play. Players will wake up in the free lands of the Winds with no recollection of how they got there or who they are. Someone is leaving notes(Quests) for you and as you pick them up you slowly start to get an idea of where you are and who you are. Talewinds is a personal project of mine that is currently still in development with no set release date. 
-
-Role and Responsibilites: *Game Designer Dec 2019 - Present*
-
--	RPG project in Unity 3D intended to be simple enough for kids but story rich so any age can enjoy
--	Programmed scripts in C# for AI enemies, weapons/tools, character movement, animation, audio
--	Created animations for enemies, weapons/tools
--	Designed small open-world level layout and non-linear dungeon system 
-
 ### The Red Door
-![Untitled Horror Title Screen](https://avvrg.files.wordpress.com/2020/01/uhtitlescreen.png?w=2720)
+![Untitled Horror Title Screen](https://img.itch.zone/aW1nLzI5OTA4MzkucG5n/original/%2FWDfiI.png)
 
 The Red door is a first-person Survival Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door is still in development and is expected to make an alpha release on PC in Feburary.
 
@@ -34,6 +22,17 @@ Puzzle gameplay video: [Youtube Link](https://youtu.be/efmZKyBJFJs)
 
 Portal gameplay VIdeo: [Youtube Link](https://youtu.be/fNLJiKMMDh4)
 
+### Stones of Cataria: Talewinds
+![Stones of Cataria: Talewinds Screenshot](https://avvrg.files.wordpress.com/2020/01/soc_talwinds.png?w=2720)
+
+Stones of Cataria: Talewinds is an RPG intended for kids. With simple inventories, quests, and a dungeon system, Talewinds aims to be a less complex RPG that is story driven so it's easy for kids to pick up but also interesting enough for adults to play. Players will wake up in the free lands of the Winds with no recollection of how they got there or who they are. Someone is leaving notes(Quests) for you and as you pick them up you slowly start to get an idea of where you are and who you are. Talewinds is a personal project of mine that is currently still in development with no set release date. 
+
+Role and Responsibilites: *Game Designer Dec 2019 - Present*
+
+-	RPG project in Unity 3D intended to be simple enough for kids but story rich so any age can enjoy
+-	Programmed scripts in C# for AI enemies, weapons/tools, character movement, animation, audio
+-	Created animations for enemies, weapons/tools
+-	Designed small open-world level layout and non-linear dungeon system 
 
 ### Bubbles Escape
 ![Bubbles Escape Title Screen](https://img.itch.zone/aW1hZ2UvNTE3OTc4LzI3MDMyMTMucG5n/original/YyrBCF.png)
