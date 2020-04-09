@@ -5,12 +5,25 @@ Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/De
 
 ## Projects
 
+### Loot N Shoot
+Loot N Shoot is a multiplayer PvP/PvE Looter Shooter.  Players will join servers to play on a large sandbox-style map.  Loot will be dropped and hidden around the map for players to find and collect. The primary gameplay involves: PvP - in which players drop what they are carrying on death, thus encouraging the players to hunt each other along with the map’s loot. PvE - involves monsters hunting the player and vice versa. Monsters will also drop loot at varying rates depending on the monster killed (higher level monsters drop higher level loot). Currently Loot N Shoot is in active development by Passion 7 LLC where I am contracted as a remote game designer and is set to make an alpha release Q4 2020 - Q1 2021.
+
+Role and Responsibilities: *Game Designer Jan 2020 - Present*
+
+-	Creatively wrote narrative/storyline for game based on Creative Directors given theme
+- Developed leveling system with an exponential growth curve, skill tree, PVP rating system, and a database for weapons and general items
+- Created over 15+ events, missions, and quests for Loot N Shoot to incentivize PVP and PVE encounters within the game
+
+[Leveling System, Skill Tree, PVP Rating system Sheet Link](https://docs.google.com/spreadsheets/d/18AEpWQ_ieI-LLn0HPknAXC9SsecMeq9pvxmpSnp9pz4/edit?usp=sharing)
+
+[Weapons & Items Database Sheet Link](https://docs.google.com/spreadsheets/d/1KVIHIyvo2eukFGoCYvPC8ZEt7fzfDETcGMJEMc6QCjE/edit?usp=sharing)
+
 ### The Red Door
 ![Untitled Horror Title Screen](https://img.itch.zone/aW1nLzMyMDkzOTQucG5n/original/wrPadl.png)
 
 The Red door is a first-person Survival Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door is still in development and currently has a demo version available to play on [itch.io](https://yunglads25.itch.io/the-red-door).
 
-Role and Resposibilities: *Game Designer Dec 2019 - Present*
+Role and Resposibilities: *Game Designer Dec 2019 - Mar 2020*
 
 -	Developed/created systems, mechanics, and gameplay based on game design document 
 -	Programmed scripts in C# for AI enemies, character movement, procedurally generated levels, randomly generated items, hiding locations, puzzles, and scripted events
