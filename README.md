@@ -5,18 +5,22 @@ Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/De
 
 ## Projects
 
-### Loot N Shoot
-Loot N Shoot is a multiplayer PvP/PvE Looter Shooter.  Players will join servers to play on a large sandbox-style map.  Loot will be dropped and hidden around the map for players to find and collect. The primary gameplay involves: PvP - in which players drop what they are carrying on death, thus encouraging the players to hunt each other along with the map’s loot. PvE - involves monsters hunting the player and vice versa. Monsters will also drop loot at varying rates depending on the monster killed (higher level monsters drop higher level loot). Currently Loot N Shoot is in active development by Passion 7 LLC where I am contracted as a remote game designer and is set to make an alpha release Q4 2020 - Q1 2021.
+### Deceason
+Deceason is a multiplayer PvP/PvE Looter Shooter.  Players will join servers to play on a large sandbox-style map.  Loot will be dropped and hidden around the map for players to find and collect. The primary gameplay involves: PvP - in which players drop what they are carrying on death, thus encouraging the players to hunt each other along with the map’s loot. PvE - involves monsters hunting the player and vice versa. Monsters will also drop loot at varying rates depending on the monster killed (higher level monsters drop higher level loot). Currently Deceason is in active development by Passion7 LLC where I am contracted as a remote game designer and is set to make an alpha release June 2020
 
 Role and Responsibilities: *Game Designer Jan 2020 - Present*
 
--	Creatively wrote narrative/storyline for game based on Creative Directors given theme
-- Developed leveling system with an exponential growth curve, skill tree, PVP rating system, and a database for weapons and general items
-- Created over 15+ events, missions, and quests for Loot N Shoot to incentivize PVP and PVE encounters within the game
+-	Creatively designed narrative/storyline for game based on Creative Directors given theme
+- Pitched, designed, and implemented leveling system with an exponential growth curve, skill tree, PVP rating system, and a database for weapons and general items
+- Created over 20+ events, missions, and quests to incentivize PVP and PVE encounters within the game
 
 [Leveling System, Skill Tree, PVP Rating system Sheet Link](https://docs.google.com/spreadsheets/d/18AEpWQ_ieI-LLn0HPknAXC9SsecMeq9pvxmpSnp9pz4/edit?usp=sharing)
 
 [Weapons & Items Database Sheet Link](https://docs.google.com/spreadsheets/d/1KVIHIyvo2eukFGoCYvPC8ZEt7fzfDETcGMJEMc6QCjE/edit?usp=sharing)
+
+[Story Elements Doc Link](https://drive.google.com/file/d/16xkQFVtuFItWPZkSF6sdsiVDYB0zRTH3/view?usp=sharing)
+
+[Skill Tree Doc Link](https://drive.google.com/file/d/1DCW_0hLjQuMYJ-FhyxuorKQP3jwdpSal/view?usp=sharing)
 
 ### The Red Door
 ![Untitled Horror Title Screen](https://img.itch.zone/aW1nLzMyMDkzOTQucG5n/original/wrPadl.png)
