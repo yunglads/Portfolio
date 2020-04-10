@@ -1,4 +1,5 @@
-# Aladdin Vicuna Game Designer
+# Aladdin Vicuna Game Designer 
+![Spitfire Games Logo](https://avvrg.files.wordpress.com/2020/04/spitfire-logo.jpg?w=258)
 
 ## About me
 Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/Developer and a Full Sail University alumni. I graduated on October 4th, 2019, with a BS in Game Design. During my time at Full Sail I've learned a lot about the gaming industry and gaming as a whole. I have always loved the idea of creating video games and with the help of Full Sail, I am able to pursue my dreams of making my game ideas come to life.
