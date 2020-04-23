@@ -26,7 +26,7 @@ Role and Responsibilities: *Game Designer Jan 2020 - Present*
 ### The Red Door
 ![Untitled Horror Title Screen](https://img.itch.zone/aW1nLzMyMDkzOTQucG5n/original/wrPadl.png)
 
-The Red door is a first-person Survival Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door is still in development and currently has a demo version available to play on [itch.io](https://yunglads25.itch.io/the-red-door).
+The Red door is a first-person Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door was released on Feb 23, 2020 received over 1000+ downloads and is available to play on [itch.io](https://yunglads25.itch.io/the-red-door).
 
 Role and Resposibilities: *Game Designer Dec 2019 - Mar 2020*
 
