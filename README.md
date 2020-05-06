@@ -26,7 +26,7 @@ Role and Responsibilities: *Game Designer Jan 2020 - Present*
 ### The Red Door
 ![Untitled Horror Title Screen](https://img.itch.zone/aW1nLzMyMDkzOTQucG5n/original/wrPadl.png)
 
-The Red door is a first-person Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door was released on Feb 23, 2020 received over 1000+ downloads and is available to play on [itch.io](https://yunglads25.itch.io/the-red-door).
+The Red door is a first-person Horror game in which players take on the role of an abductee trying to escape a serial killers house of horrors. Players will have to solve puzzles, find keys to unlock the doors, and use portals to reach the next area until they escape the house all while running away from the murderer. The Red Door was released on Feb 23, 2020 received over 2000+ downloads and is available to play on [itch.io](https://yunglads25.itch.io/the-red-door) and [Gamejolt.com](https://gamejolt.com/games/thereddoor/473943)
 
 Role and Resposibilities: *Game Designer Dec 2019 - Mar 2020*
 
@@ -34,7 +34,9 @@ Role and Resposibilities: *Game Designer Dec 2019 - Mar 2020*
 -	Programmed scripts in C# for AI enemies, character movement, procedurally generated levels, randomly generated items, hiding locations, puzzles, and scripted events
 -	Designed multiple areas based inside a home using pre-made assets and tweaking pre-made code for games specific needs
 
-[The Red Door Demo Link](https://yunglads25.itch.io/the-red-door)
+[The Red Door Demo Link Itch.io](https://yunglads25.itch.io/the-red-door)
+
+[The Red Door Demo Link Gamejolt.com](https://gamejolt.com/games/thereddoor/473943)
 
 The Red Door early development gameplay video: [Youtube Link](https://youtu.be/FWF-oTzjH28)
 
