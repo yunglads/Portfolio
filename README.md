@@ -6,10 +6,27 @@ Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/De
 
 ## Projects
 
+### Kingdom Jump
+A platformer game in its own league! Swing, jump and fight your way through the kingdom in an unmatched adventure. Become a hero by swinging through mystical landscapes as you fight your way through unseen monstrous creatures. It is your destiny to win and prevent the magical Kingdom from being overrun by monsters. Kingdom Jump is set to make a release on Mobile Sep 2020. [Kingdom Jump Website](https://www.kingdomjump.com/) 
+
+[Kingdom Jump Trailer](https://youtu.be/t94HOENhrrY)
+
+Roles and Responsibilites : *Lead Game Designer May 2020 - Present*
+
+- Created and iterated narrative/story line based on creative directors concept story.
+- Worked within existing systems and expanded them, including integrating a weapons metrics testing tool.
+- Partnered with other teams to consider the game design and player engagement targets.
+
+[Weapons Stats & Database](https://docs.google.com/spreadsheets/d/1HgflvScJ4UE39LoTH1mWYMwiXevWdY2ct1WYIdhCOH0/edit?usp=sharing)
+
+[Storyboard Panels](https://docs.google.com/document/d/1_1ySsubjfyUIQpw2StCj0ZmJ8TQPHI6a3pqcSHv9gy0/edit)
+
+[Updated Comic Panels](https://docs.google.com/document/d/1gN1mX_dX7Ye8ARR0f6eCl46Ix6G_ER-IHNsd8JXz_Ns/edit)
+
 ### Deceason
 Deceason is a multiplayer PvP/PvE Looter Shooter.  Players will join servers to play on a large sandbox-style map.  Loot will be dropped and hidden around the map for players to find and collect. The primary gameplay involves: PvP - in which players drop what they are carrying on death, thus encouraging the players to hunt each other along with the map’s loot. PvE - involves monsters hunting the player and vice versa. Monsters will also drop loot at varying rates depending on the monster killed (higher level monsters drop higher level loot). Currently Deceason is in active development by Passion7 LLC where I am contracted as a remote game designer and is set to make an alpha release June 2020
 
-Role and Responsibilities: *Game Designer Jan 2020 - Present*
+Role and Responsibilities: *Game Designer Jan 2020 - Apr 2020*
 
 -	Creatively designed narrative/storyline for game based on Creative Directors given theme
 - Pitched, designed, and implemented leveling system with an exponential growth curve, skill tree, PVP rating system, and a database for weapons and general items
