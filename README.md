@@ -7,7 +7,8 @@ Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/De
 ## Projects
 
 ### Kingdom Jump
-A platformer game in its own league! Swing, jump and fight your way through the kingdom in an unmatched adventure. Become a hero by swinging through mystical landscapes as you fight your way through unseen monstrous creatures. It is your destiny to win and prevent the magical Kingdom from being overrun by monsters. Kingdom Jump is set to make a release on Mobile Sep 2020. [Kingdom Jump Website](https://www.kingdomjump.com/) 
+A platformer game in its own league! Swing, jump and fight your way through the kingdom in an unmatched adventure. Become a hero by swinging through mystical landscapes as you fight your way through unseen monstrous creatures. It is your destiny to win and prevent the magical Kingdom from being overrun by monsters. Kingdom Jump is set to make a release on Mobile Sep 2020. 
+[Kingdom Jump Website](https://www.kingdomjump.com/) 
 
 [Kingdom Jump Trailer](https://youtu.be/t94HOENhrrY)
 
@@ -64,7 +65,7 @@ Portal gameplay VIdeo: [Youtube Link](https://youtu.be/fNLJiKMMDh4)
 ### Stones of Cataria: Talewinds
 ![Stones of Cataria: Talewinds Screenshot](https://avvrg.files.wordpress.com/2020/01/soc_talwinds.png?w=2720)
 
-Stones of Cataria: Talewinds is an RPG intended for kids. With simple inventories, quests, and a dungeon system, Talewinds aims to be a less complex RPG that is story driven so it's easy for kids to pick up but also interesting enough for adults to play. ~~Players will wake up in the free lands of the Winds with no recollection of how they got there or who they are. Someone is leaving notes(Quests) for you and as you pick them up you slowly start to get an idea of where you are and who you are.~~ Talewinds is a personal project of mine that is currently still in development with no set release date. See design doc at the bottom of this page for more info.
+Stones of Cataria: Talewinds is an RPG intended for kids. With simple inventories, quests, and a dungeon system, Talewinds aims to be a less complex RPG that is story driven so it's easy for kids to pick up but also interesting enough for adults to play. ~~Players will wake up in the free lands of the Winds with no recollection of how they got there or who they are. Someone is leaving notes(Quests) for you and as you pick them up you slowly start to get an idea of where you are and who you are.~~ Talewinds is a personal project of mine that is currently still in development with no set release date. See design document at the bottom of this page for more info.
 
 Role and Responsibilites: *Game Designer Dec 2019 - Present*
 
@@ -118,14 +119,14 @@ Play Where's the Bathroom!?: [Download link](https://drive.google.com/file/d/1o9
 
 ## Design Documents
 
+### Stones of Cataria
+[Stones of Cataria Design Doc](https://docs.google.com/document/d/1n5x2qP4Z1zoDdve68bSjDSqLo--MVqw-q6MhmRg-ryo/edit?usp=sharing)
+
 ### Warparty
 [Warpaty Design Doc](https://avvrg.files.wordpress.com/2017/07/warparty-design-document.pdf)
 
 ### Avalanche
 [Avalanche Presentation](https://docs.google.com/presentation/d/1lw22617caf5CrLRCZNsmxbxoF7nUDyIzJwppBi-wrxg/edit?usp=sharing)
-
-### Stones of Cataria
-[Stones of Cataria Design Doc](https://docs.google.com/document/d/1n5x2qP4Z1zoDdve68bSjDSqLo--MVqw-q6MhmRg-ryo/edit?usp=sharing)
 
 ### Where's the Bathroom!?
 [Where's the Bathroom!? Design Doc](https://avvrg.wordpress.com/designdocuments/)
