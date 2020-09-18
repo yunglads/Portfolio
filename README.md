@@ -15,6 +15,7 @@ Camping With Your Lover is a short created using Unity. With this short I experi
 
 ### Kingdom Jump
 A platformer game in its own league! Swing, jump and fight your way through the kingdom in an unmatched adventure. Become a hero by swinging through mystical landscapes as you fight your way through unseen monstrous creatures. It is your destiny to win and prevent the magical Kingdom from being overrun by monsters. Kingdom Jump is set to make a release on Mobile Sep 2020. 
+
 [Kingdom Jump Website](https://www.kingdomjump.com/) 
 
 [Kingdom Jump Trailer](https://youtu.be/t94HOENhrrY)
