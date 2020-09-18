@@ -6,6 +6,13 @@ Hello and welcome to my page! My name is Aladdin Vicuna. I am a Game Designer/De
 
 ## Projects
 
+### Camping With Your Lover (Short)
+![Camping With Your Lover Still](https://i9.ytimg.com/vi/xtEiPB0v2xg/mq2.jpg?sqp=COinkfsF&rs=AOn4CLAyzforyhnn5CzKwAqdnhRD9MAj8Q)
+
+Camping With Your Lover is a short created using Unity. With this short I experimented with learning how to use Cinemachine to create short cutscenes using timelines, pre-made assets, and animations.
+
+[Camping With Your Lover Video](https://youtu.be/xtEiPB0v2xg)
+
 ### Kingdom Jump
 A platformer game in its own league! Swing, jump and fight your way through the kingdom in an unmatched adventure. Become a hero by swinging through mystical landscapes as you fight your way through unseen monstrous creatures. It is your destiny to win and prevent the magical Kingdom from being overrun by monsters. Kingdom Jump is set to make a release on Mobile Sep 2020. 
 [Kingdom Jump Website](https://www.kingdomjump.com/) 
