@@ -64,6 +64,8 @@ Role and Resposibilities: *Game Designer Dec 2019 - Mar 2020*
 
 [The Red Door Demo Link Gamejolt.com](https://gamejolt.com/games/thereddoor/473943)
 
+Full fan playthrough: [Youtube Link](https://youtu.be/f5l5nICLDcI)
+
 The Red Door early development gameplay video: [Youtube Link](https://youtu.be/FWF-oTzjH28)
 
 Puzzle gameplay video: [Youtube Link](https://youtu.be/efmZKyBJFJs)
